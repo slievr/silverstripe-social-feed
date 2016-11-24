@@ -1,0 +1,16 @@
+.social-feed{
+    display:inline-block;
+    max-width: 70%;
+}
+
+.social-feed__item{
+    display: inline-block;
+    width: 25%;
+    box-sizing: border-box;
+    padding: 0.5rem;
+}
+
+.social-feed__image{
+    width: 100%;
+    display: block;
+}
